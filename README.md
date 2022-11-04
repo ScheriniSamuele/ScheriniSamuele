@@ -6,7 +6,7 @@ My name is Samuele Scherini and I am a computer science and engineering student 
 
 - 🚀 I’m currently working on pursuing my Master's Degree at Politecnico di Milano
 - 🍀 I try to learn everyday something new related to software engineering and fullstack development
-- ✉️ If you have any questions about my works feel free to contact me
+- ✉️ If you have any questions about me or my work feel free to contact me
 
 ## Get in touch 📝
 
