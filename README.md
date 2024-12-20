@@ -1,10 +1,10 @@
 ### <Hello World 👋 />
-My name is Samuele Scherini and I am a computer science and engineering student at Politecnico di Milano.
+My name is Samuele Scherini and I am a former Computer Science and Engineering student at Politecnico di Milano.
 
 
 ## Something about me...
 
-- 🚀 I’m currently working on pursuing my Master's Degree at Politecnico di Milano
+- 🚀 I pursued my Master's Degree at Politecnico di Milano
 - 🍀 I try to learn everyday something new related to software engineering and fullstack development
 - ✉️ If you have any questions about me or my work feel free to contact me
 
