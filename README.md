@@ -1,5 +1,6 @@
 ### <Hello World 👋 />
-My name is Samuele Scherini and I am a former Computer Science and Engineering student at Politecnico di Milano.
+My name is Samuele Scherini and I am a frontend developer working @Iriscube Reply.
+I am former Computer Science and Engineering student at Politecnico di Milano.
 
 
 ## Something about me...
